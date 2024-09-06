@@ -2,7 +2,7 @@
 
 ## Classifiers
 
-Skeletons for the Naive Bayes and Logistic Regression classifiers you need to implement are in `classifiers.py`.
+Skeletons for the Naive Bayes and Logistic Regression classifiers that need to implemented are in `classifiers.py`.
 `main.py` wraps these and reports accuracy.
 
 To run a baseline which always predicts `0` as the label, run:
