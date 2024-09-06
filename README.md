@@ -27,7 +27,7 @@ python main.py --model "LogisticRegression"
 
 Data has been pre-split into training, dev, and test splits in `data/`, with a CSV file for each split.
 
-This assignment uses the "Large Movie Review Dataset", containing 50,000 polar movie reviews (either positive or negative). We sub-sample these into train, dev, and test splits. This was dataset was introduced in the following paper:
+This project uses the "Large Movie Review Dataset", containing 50,000 polar movie reviews (either positive or negative). We sub-sample these into train, dev, and test splits. This was dataset was introduced in the following paper:
 
 Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). [Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf). The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
 
